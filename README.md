@@ -36,10 +36,19 @@ Here are some ideas to get you started:
 <img align="right" alt="Carm-img" height="200" width="200" src="https://cdn.discordapp.com/attachments/1004915442869096479/1066501197667778580/download20230106202503.png">
   </div>
   
-  ###
+  ### About me
 
 ```javascript
 const carme = {
-  
+    fondOf: ["books", "challenges", "knowledge", "technology"],
+    softSkills: ["leadership"],
+    perspectives: {
+        shortTerm: {
+            focus: ["Computational neuroscience", "Web development", "C"] 
+        },
+        longTerm: {
+            future: ["Cryptography", "Computational neuroscience"]
+        }
+    }
 };
 ```
