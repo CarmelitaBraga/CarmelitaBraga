@@ -1,7 +1,11 @@
 ## Hi, I'm Carmelita Braga ⚡
 
+<div style="display: inline_block">
+<img align="right" alt="Carm-img" height="200" width="200" src="https://cdn.discordapp.com/attachments/1004915442869096479/1066501197667778580/download20230106202503.png">
+  </div>
+
 ### Currently...
-  * studying web development
+  * studying web wevelopment
   * enrolled in Computer Science at UFCG
   * searching about computational neuroscience
 
@@ -16,35 +20,16 @@
   <img align="center" alt="Carm-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Carm-vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">   
 </div>
-
-<!--
-**CarmelitaBraga/CarmelitaBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div style="display: inline_block">
-<img align="right" alt="Carm-img" height="200" width="200" src="https://cdn.discordapp.com/attachments/1004915442869096479/1066501197667778580/download20230106202503.png">
-  </div>
   
-  ### About me
+  ### About me...
 
 ```javascript
-const carme = {
+const carm = {
     fondOf: ["books", "challenges", "knowledge", "technology"],
-    softSkills: ["leadership"],
+    softSkills: ["leadership", "kindness", "resilience", "critical thinking", "conflict resolution"],
     perspectives: {
         shortTerm: {
-            focus: ["Computational neuroscience", "Web development", "C"] 
+            focus: ["Computational neuroscience", "Web development", "C", "JavaScript"]
         },
         longTerm: {
             future: ["Cryptography", "Computational neuroscience"]
