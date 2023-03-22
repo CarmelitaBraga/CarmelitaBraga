@@ -5,9 +5,9 @@
   </div>
 
 ### Currently...
-  * studying web wevelopment
+  * studying web development
   * enrolled in Computer Science at UFCG
-  * searching about computational neuroscience
+  * searching about clojure
 
 ### Familiarized with...
 <div style="display: inline_block">
