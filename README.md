@@ -5,9 +5,9 @@
   </div>
 
 ### Currently...
+  * learning clojure
   * studying web development
   * enrolled in Computer Science at UFCG
-  * searching about clojure
 
 ### Familiarized with...
 <div style="display: inline_block">
@@ -29,10 +29,10 @@ const carm = {
     softSkills: ["leadership", "kindness", "resilience", "critical thinking", "conflict resolution"],
     perspectives: {
         shortTerm: {
-            focus: ["Computational neuroscience", "Web development", "C", "JavaScript"]
+            focus: ["Software engineering", "Web development", "Clojure", "JavaScript"]
         },
         longTerm: {
-            future: ["Cryptography", "Computational neuroscience"]
+            future: ["Cryptography", "Computational neuroscience", "C"]
         }
     }
 };
