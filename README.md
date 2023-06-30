@@ -18,7 +18,8 @@
   <img align="center" alt="Carm-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img  align="center" alt="Carm-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Carm-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Carm-vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">   
+  <img align="center" alt="Carm-vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
+  <img align="center" alt="Carm-clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg">
 </div>
   
   ### About me...
