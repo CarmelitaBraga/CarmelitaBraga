@@ -1,40 +1,41 @@
-## Hi, I'm Carmelita Braga ⚡
+# Hello, World! I'm Carmelita Braga ⚡
+
+Welcome to my GitHub profile! I'm a Computer Science student at Universidade Federal de Campina Grande, with a passion for learning and growing in the field of technology.
+
+## What I'm up to 🚀
+
+- 📊 Exploring **Data Analysis**
+- 🌐 Expanding my skills in **Web Development**
+- 👩🏽‍💻 Diving deep into **DevOps**
+
+## Skills and Experience 🛠️
+
+I have experience with the following technologies:
 
 <div style="display: inline_block">
-<img align="right" alt="Carm-img" height="200" width="200" src="https://cdn.discordapp.com/attachments/1004915442869096479/1066501197667778580/download20230106202503.png">
-  </div>
-
-### Currently...
-  * learning clojure
-  * studying web development
-  * enrolled in Computer Science at UFCG
-
-### Familiarized with...
-<div style="display: inline_block">
-  <img align="center" alt="Carm-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Carm-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carm-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carm-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Carm-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <img  align="center" alt="Carm-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Carm-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Carm-vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-  <img align="center" alt="Carm-clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
+  <img align="center" alt="Clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg">
 </div>
-  
-  ### About me...
+
+## A little more about me
 
 ```javascript
 const carm = {
-    fondOf: ["books", "challenges", "knowledge", "technology"],
+    interests: ["books", "challenges", "knowledge", "technology"],
     softSkills: ["leadership", "kindness", "resilience", "critical thinking", "conflict resolution"],
-    perspectives: {
+    goals: {
         shortTerm: {
-            focus: ["Software engineering", "Web development", "Clojure", "JavaScript"]
+            focus: ["Software Engineering", "Web Development", "Clojure", "DevOps"]
         },
         longTerm: {
-            future: ["Cryptography", "Computational neuroscience", "C"]
+            aspirations: ["Cryptography", "Computational neuroscience", "C"]
         }
     }
 };
-```
